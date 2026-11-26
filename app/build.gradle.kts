@@ -10,8 +10,9 @@ plugins {
 
 android {
     namespace = "com.snapfetch.app"
-    compileSdk = 36
-    buildToolsVersion = "36.0.0"
+    compileSdk = 37
+    compileSdkExtension = 2
+    buildToolsVersion = "37.0.0"
 
     defaultConfig {
         applicationId = "com.snapfetch.app"
